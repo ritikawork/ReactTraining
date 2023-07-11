@@ -14,7 +14,7 @@ export default function VariablesComponent() {
         {welcome.greeting} {getTitle("React")}
       </h1>
       <label>Search:</label>
-      <input id="search1" type="text"></input>
+      <input id="search" type="text"></input>
       <button id="search" type="submit">
         Submit
       </button>
